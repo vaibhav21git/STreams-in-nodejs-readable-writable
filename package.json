@@ -1,0 +1,17 @@
+{
+  "name": "httpnode",
+  "version": "1.0.0",
+  "description": "vaibhav notes",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "nodemon": "^2.0.14",
+    "validator": "^13.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vaibhav",
+  "license": "ISC"
+}
